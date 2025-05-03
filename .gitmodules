@@ -1,0 +1,3 @@
+[submodule "flappy_dart_raylib/raylib"]
+	path = flappy_dart_raylib/raylib
+	url = https://gitlab.com/wolfenrain/dart-raylib
